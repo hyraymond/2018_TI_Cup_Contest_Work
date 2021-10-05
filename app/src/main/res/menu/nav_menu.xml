@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    xmlns:android="http://schemas.android.com/apk/res/android">
+    <group android:checkableBehavior="single">
+        <item
+            android:id="@+id/nav_delete"
+            android:icon="@drawable/nav_icon"
+            android:title="清空缓存" />
+        <item
+            android:id="@+id/nav_about"
+            android:icon="@drawable/nav_icon"
+            android:title="关于我们" />
+        <item
+            android:id="@+id/loadLatest"
+            android:icon="@drawable/nav_icon"
+            android:title="最近一次" />
+    </group>
+</menu>

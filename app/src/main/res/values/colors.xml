@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#FF6600</color>
+    <color name="colorPrimaryDark">#404040</color>
+    <color name="colorAccent">#ff6600</color>
+    <color name="commonRed">#FF6600</color>
+    <color name="colorBlack">#000000</color>
+    <color name="scan_corner_color">#0effc2</color>
+</resources>
